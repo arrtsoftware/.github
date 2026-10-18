@@ -19,7 +19,14 @@ A **arrtsoftware** reúne os projetos de Rodrigo de Araujo Rosa em arquitetura d
 
 ## Quem está por trás
 
-Rodrigo é bacharel em Sistemas de Informação, com três pós-graduações em Inteligência Artificial, Data Science e Big Data. Trabalha com arquitetura corporativa de tecnologia, num time de enablement responsável por criar e manter padrões de arquitetura.
+Rodrigo trabalha com arquitetura corporativa de tecnologia, num time de enablement responsável por criar e manter padrões de arquitetura.
+
+**Formação**
+
+- Bacharelado em Sistemas de Informação — UNISINOS
+- MBA em Tecnologia para Negócios: AI, Data Science e Big Data — PUCRS
+- Pós-graduação em Inteligência Artificial e Ciência de Dados — UniRitter
+- Pós-graduação em Inteligência Artificial para Desenvolvedores — FIAP
 
 ## No que trabalhamos
 
