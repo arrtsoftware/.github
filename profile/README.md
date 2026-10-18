@@ -3,7 +3,7 @@
   <img src="arrtsoftware-lockup-escuro.svg#gh-dark-mode-only" alt="arrtsoftware" width="440">
 </p>
 
-<p align="center"><strong>Arquitetura, APIs e engenharia de software</strong></p>
+<p align="center"><strong>Arquitetura, APIs, IA e engenharia de software</strong></p>
 
 <p align="center">
   <a href="https://arrtsoftware.com.br"><img src="https://img.shields.io/badge/site-arrtsoftware.com.br-1E5C48?style=flat-square" alt="Site arrtsoftware.com.br"></a>
@@ -27,7 +27,3 @@ Rodrigo é bacharel em Sistemas de Informação, com três pós-graduações em 
 - **APIs e integração:** gateways, contratos OpenAPI e migração entre ambientes.
 - **Inteligência artificial:** machine learning, modelos de linguagem, agentes e servidores MCP, e assistentes que respondem com base em documentação técnica.
 - **Dados:** ciência de dados, pipelines e processamento em larga escala.
-
-## Como os repositórios são organizados
-
-Cada repositório segue o padrão `<domínio>-<nome>-<tipo>`, como `adr-search-api` ou `drawio-mcp`, e cada projeto ganha um codinome de uma figura mitológica ou folclórica. A maioria dos projetos ainda é privada; eles aparecem aqui à medida que forem publicados.
