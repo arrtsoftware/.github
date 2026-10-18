@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://arrtsoftware.com.br"><img src="https://img.shields.io/badge/site-arrtsoftware.com.br-1E5C48?style=flat-square" alt="Site arrtsoftware.com.br"></a>
+  <a href="https://www.linkedin.com/in/rodrigoaraujorosa"><img src="https://img.shields.io/badge/LinkedIn-rodrigoaraujorosa-1E5C48?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: rodrigoaraujorosa"></a>
   <img src="https://img.shields.io/badge/idioma-pt--BR-1E5C48?style=flat-square" alt="Idioma: pt-BR">
   <img src="https://img.shields.io/badge/commits-conventional-C8962E?style=flat-square" alt="Conventional Commits">
 </p>
@@ -34,3 +35,8 @@ Rodrigo trabalha com arquitetura corporativa de tecnologia, num time de enableme
 - **APIs e integração:** gateways, contratos OpenAPI e migração entre ambientes.
 - **Inteligência artificial:** machine learning, modelos de linguagem, agentes e servidores MCP, e assistentes que respondem com base em documentação técnica.
 - **Dados:** ciência de dados, pipelines e processamento em larga escala.
+
+## Contato
+
+- Site: [arrtsoftware.com.br](https://arrtsoftware.com.br)
+- LinkedIn: [linkedin.com/in/rodrigoaraujorosa](https://www.linkedin.com/in/rodrigoaraujorosa)
