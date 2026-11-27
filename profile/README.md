@@ -14,10 +14,6 @@
 
 A **arrtsoftware** reúne os projetos de Rodrigo de Araujo Rosa em arquitetura de software, integração por APIs, inteligência artificial e dados.
 
-## O nome
-
-**arrt** vem de **A**raújo, **R**osa, **R**odrigo e **T**orres. Também soa como "arte", porque construir software é um ofício, e começa com o "ar" de **ar**quitetura. No logotipo, o segundo *r* termina num ponto dourado: o ponto onde as coisas se conectam.
-
 ## Quem está por trás
 
 Rodrigo trabalha com arquitetura corporativa de tecnologia, num time de enablement responsável por criar e manter padrões de arquitetura.
@@ -40,3 +36,4 @@ Rodrigo trabalha com arquitetura corporativa de tecnologia, num time de enableme
 
 - Site: [arrtsoftware.com.br](https://arrtsoftware.com.br)
 - LinkedIn: [linkedin.com/in/rodrigoaraujorosa](https://www.linkedin.com/in/rodrigoaraujorosa)
+- GitHub pessoal: [github.com/rodrigoaraujorosa](https://github.com/rodrigoaraujorosa)
